@@ -1,2 +1,3 @@
-# wifi_tech
-Customer classification based on various Wi-Fi technology-related features
+# Binary Classification of Wi-Fi Technology-Related Features
+
+In this data science project, a binary classification model was constructed to predict customer satisfaction levels, categorized as satisfied or unsatisfied based on a set of Wi-Fi technology-related features. The dataset comprises variables capturing signal types, hardware identifiers, performance metrics, and other network indicators. Feature preprocessing involved normalization and encoding of both numerical and categorical values, followed by model training using random forest classifier. Evaluation metrics including accuracy, precision, recall, F1-score, TPR, TNR, PPV, NPV, FNR, FPR, and FDR were utilized to assess model performance. The results demonstrate that Wi-Fi technology features can be effectively leveraged to model and predict customer satisfaction, offering valuable insights for optimizing wireless service delivery and enhancing user experience.
